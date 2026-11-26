@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ChatService/ChatService.csproj" />
+    <Project Path="src/HistoryWorker/HistoryWorker.csproj" />
+  </Folder>
+</Solution>

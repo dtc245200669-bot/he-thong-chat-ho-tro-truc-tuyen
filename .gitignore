@@ -1,0 +1,24 @@
+# Environment variables - khong dua mat khau len GitHub
+.env
+.env.*
+!.env.example
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# React / Node.js
+node_modules/
+dist/
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
